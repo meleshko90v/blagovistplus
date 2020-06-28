@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a09d5d49-b61b-40ac-99d9-778c1fc3fca2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/foto-100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto-135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto-138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto-90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/img-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_mixin.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_responsive.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_theme_color.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/style.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/core-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/medilife-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nice-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nice-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tcal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tcal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/themify-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor1.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor2.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor3.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor4.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleri.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/benefits.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/benefits.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/breadcumb1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breadcumb1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/core-img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/core-img/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/core-img/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-113.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-118.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-118.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-122.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-124.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-130.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-130.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/foto-99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/alarm-clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/envelope.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/envelope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/map-pin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/map-pin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ln1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ln1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/medical1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/medical1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tel.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/next_mon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/next_mon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/next_year.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/next_year.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prev_mon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/prev_mon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/prev_year.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/prev_year.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/active.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tcal.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tcal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_theme_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\workspace\blagovistplus.loc\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b07ugjiPSPy0qk8PFDexqWJOib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordpress.loc" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\blagovistplus.loc\css" />
+      <recent name="D:\workspace\blagovistplus.loc\ajax" />
+      <recent name="D:\workspace\blagovistplus.loc\video" />
+      <recent name="D:\workspace\blagovistplus.loc\img" />
+      <recent name="D:\workspace\blagovistplus.loc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
+      <recent name="D:\workspace\blagovistplus.loc" />
+      <recent name="D:\workspace\blagovistplus.loc\js" />
+      <recent name="D:\workspace\blagovistplus.loc\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a09d5d49-b61b-40ac-99d9-778c1fc3fca2" name="Default Changelist" comment="" />
+      <created>1587757381371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587757381371</updated>
+      <workItem from="1587757383019" duration="395000" />
+      <workItem from="1587816287992" duration="1458000" />
+      <workItem from="1587891337994" duration="2366000" />
+      <workItem from="1588349418623" duration="203000" />
+      <workItem from="1588349776720" duration="36180000" />
+      <workItem from="1588544738194" duration="7546000" />
+      <workItem from="1588685574471" duration="22225000" />
+      <workItem from="1588758334345" duration="9188000" />
+      <workItem from="1589231094044" duration="1425000" />
+      <workItem from="1589467789196" duration="602000" />
+      <workItem from="1590149238650" duration="229000" />
+      <workItem from="1590782324986" duration="5476000" />
+      <workItem from="1590833603346" duration="2375000" />
+      <workItem from="1591270352016" duration="2931000" />
+      <workItem from="1591311712834" duration="42218000" />
+      <workItem from="1591801393377" duration="450000" />
+      <workItem from="1591801979343" duration="11000" />
+      <workItem from="1591802296972" duration="34000" />
+      <workItem from="1591817439909" duration="6382000" />
+      <workItem from="1592126315605" duration="242000" />
+      <workItem from="1592165265271" duration="344000" />
+      <workItem from="1592165630210" duration="115866000" />
+      <workItem from="1592474612087" duration="111277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1592258026413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1592258026413" />
+    <state x="420" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588500096150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588500096150" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593289491490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593289491490" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592299831642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592299831642" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593023466128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593023466128" />
+  </component>
+</project>
