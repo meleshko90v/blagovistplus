@@ -155,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wordpress.loc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -167,8 +167,8 @@
       <recent name="D:\workspace\blagovistplus.loc" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
       <recent name="D:\workspace\blagovistplus.loc" />
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
       <recent name="D:\workspace\blagovistplus.loc\js" />
       <recent name="D:\workspace\blagovistplus.loc\css" />
     </key>
@@ -205,7 +205,7 @@
       <workItem from="1592126315605" duration="242000" />
       <workItem from="1592165265271" duration="344000" />
       <workItem from="1592165630210" duration="115866000" />
-      <workItem from="1592474612087" duration="111596000" />
+      <workItem from="1592474612087" duration="122213000" />
     </task>
     <servers />
   </component>
@@ -221,10 +221,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="420" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588500096150" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593289491490">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593554805358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593289491490" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593554805358" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1592299831642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
