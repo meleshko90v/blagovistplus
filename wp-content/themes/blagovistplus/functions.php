@@ -28,12 +28,10 @@ function blagovistplus_scripts() {
 
 // подключаем js файл темы
     wp_enqueue_script( 'bootstrap.min.js-scripts', 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js', array('jquery'), null, true );
-    wp_enqueue_script( 'sweetalert-scripts', 'https://unpkg.com/sweetalert/dist/sweetalert.min.js', array('jquery'), null, true );
     wp_enqueue_script( 'slim.min-scripts', 'https://code.jquery.com/jquery-3.5.1.slim.min.js', array('jquery'), null, true );
     wp_enqueue_script( 'popper.min-scripts', 'https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js', array('jquery'), null, true );
     wp_enqueue_script( 'index-script', get_template_directory_uri() . '/assets/js/index.js', array('jquery'), null, true );
-	wp_enqueue_script( 'tcal-script', get_template_directory_uri() . '/assets/js/tcal.js', array('jquery'), null, true );
-	wp_enqueue_script( 'form-script', get_template_directory_uri() . '/assets/js/form.js', array('jquery'), null, true );
+
 }
 
 /*
@@ -47,7 +45,6 @@ function jquery_script_method() {
 */
 
 // menu
-
 if(function_exists('register_nav_menus')){
 	register_nav_menus(
 		array( // создаём любое количество областей
@@ -56,3 +53,55 @@ if(function_exists('register_nav_menus')){
 	);
 }
 
+
+
+// виджети
+    register_sidebar(array(
+    'name' => 'Контактна форма',
+    'id' => 'footer-4',
+    'description' => 'Контактна форма',
+    'before_widget' => '<div class="wsfooterwdget">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>',
+    ));
+    register_sidebar(array(
+    'name' => 'Соціальні мережі',
+    'id' => 'footer-5',
+    'description' => 'Соціальні мережі',
+    'before_widget' => '<div class="wsfooterwdget">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>',
+    ));
+    register_sidebar(array(
+    'name' => 'ГРАФІК РОБОТИ',
+    'id' => 'footer-1',
+    'description' => 'ГРАФІК РОБОТИ',
+    'before_widget' => '<div class="wsfooterwdget">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>',
+    ));
+    register_sidebar(array(
+    'name' => 'КОНТАКТИ',
+    'id' => 'footer-2',
+    'description' => 'КОНТАКТИ',
+    'before_widget' => '<div class="wsfooterwdget">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>',
+    ));
+    register_sidebar(array(
+    'name' => 'АДРЕСА',
+    'id' => 'footer-3',
+    'description' => 'АДРЕСА',
+    'before_widget' => '<div class="wsfooterwdget">',
+    'after_widget' => '</div>',
+    'before_title' => '<h2>',
+    'after_title' => '</h2>',
+    ));
+
+
+
+?>

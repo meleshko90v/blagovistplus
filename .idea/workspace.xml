@@ -2,124 +2,871 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a09d5d49-b61b-40ac-99d9-778c1fc3fca2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/foto-100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/foto-135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/foto-138.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/foto-90.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img-8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_mixin.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_responsive.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_theme_color.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/_variables.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/f5c933fb3651be45fd943763ac799c6c137ef5b5/style.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/core-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/medilife-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nice-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nice-select.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/tcal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tcal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/themify-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor1.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor2.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor3.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor4.html" beforeDir="false" afterPath="$PROJECT_DIR$/doctor4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foto.html" beforeDir="false" afterPath="$PROJECT_DIR$/galleri.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/benefits.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/benefits.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/breadcumb1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/breadcumb1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/core-img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/core-img/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/core-img/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/core-img/plus.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-104.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-109.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-111.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-113.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-118.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-118.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-122.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-124.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-130.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-130.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-140.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-39.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-45.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-46.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-53.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-58.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-60.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-69.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-74.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-80.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-85.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-90.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-93.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-97.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/foto-99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/foto-99.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/g4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hero1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/alarm-clock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/envelope.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/envelope.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/icons/map-pin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons/map-pin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-7.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img-9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ln1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/ln1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/medical1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/medical1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tel.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tel.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/video.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/video2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/video2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/next_mon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/next_mon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/next_year.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/next_year.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/prev_mon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/prev_mon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/prev_year.png" beforeDir="false" afterPath="$PROJECT_DIR$/img2/prev_year.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/active.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery/jquery-2.2.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/tcal.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tcal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_responsive.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_theme_color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/blagovistplus (1).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blagovistplus.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-uk.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-uk.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-network-uk.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-network-uk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-uk.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-uk.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-uk.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-uk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-uk.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-uk.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/continents-cities-uk.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/continents-cities-uk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/elementor-ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/elementor-ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/elementor-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/elementor-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/wp-mail-smtp-ru_RU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/wp-mail-smtp-ru_RU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/wp-mail-smtp-uk.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/wp-mail-smtp-uk.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-4a38fe1c0c45989e44682ba6109d9f46.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-4a38fe1c0c45989e44682ba6109d9f46.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-81c889563f09dd13de1701135dc62941.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-81c889563f09dd13de1701135dc62941.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-947c76bb5095da30e16668eec15406b2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-947c76bb5095da30e16668eec15406b2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-daeb084aab42199d26393a56c3465bc0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-daeb084aab42199d26393a56c3465bc0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-e2791ba830489d23043be8650a22a22b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-e2791ba830489d23043be8650a22a22b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-0ce75ad2f775d1cac9696967d484808c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-0ce75ad2f775d1cac9696967d484808c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-1a0cd6a7128913b15c1a10dd68951869.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-1a0cd6a7128913b15c1a10dd68951869.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-1bba9045bb07c89671c88a3f328548e8.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-1bba9045bb07c89671c88a3f328548e8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-28b3c3d595952907e08d98287077426c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-28b3c3d595952907e08d98287077426c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-2c5d274ea625dd91556554ad82901529.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-2c5d274ea625dd91556554ad82901529.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-4a38fe1c0c45989e44682ba6109d9f46.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-4a38fe1c0c45989e44682ba6109d9f46.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-68f2cec7514bf8563c723a4d675fcfe6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-68f2cec7514bf8563c723a4d675fcfe6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-7f13c36c641b114bf18cd0bcc9ecc7e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-7f13c36c641b114bf18cd0bcc9ecc7e0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-803bf1ce2131e13efc590c1bc47851fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-803bf1ce2131e13efc590c1bc47851fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-81c889563f09dd13de1701135dc62941.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-81c889563f09dd13de1701135dc62941.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-8860e58c20c6a2ab5876a0f07be43bd9.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-8860e58c20c6a2ab5876a0f07be43bd9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-947c76bb5095da30e16668eec15406b2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-947c76bb5095da30e16668eec15406b2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-a25d1cc7bf7ca0b4e114f6bea64943f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-a25d1cc7bf7ca0b4e114f6bea64943f4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-bf0f094965d3d4a95b47babcb35fc136.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-bf0f094965d3d4a95b47babcb35fc136.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-daeb084aab42199d26393a56c3465bc0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-daeb084aab42199d26393a56c3465bc0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-e2791ba830489d23043be8650a22a22b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-e2791ba830489d23043be8650a22a22b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk-f8f49d9fc4a9cf7d78ec99285417bd9c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk-f8f49d9fc4a9cf7d78ec99285417bd9c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/uk.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/uk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/css/smtp-about.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/css/smtp-admin.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/icon-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/icon-none.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/icon-partial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/plugin-mi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/plugin-om.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/plugin-rp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/plugin-wpf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/about/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/email/icon-check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/email/signature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/email/wp-mail-smtp-whitelabel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/email/wp-mail-smtp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/font-awesome/check-circle-solid-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/font-awesome/exclamation-circle-regular-red.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/font-awesome/exclamation-circle-solid-orange.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/logo-whitelabel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/logs/archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/logs/single.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/menu-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/aws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/google.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/mailgun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/microsoft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/pepipost-smtp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/pepipost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/php.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/sendgrid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/sendinblue.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/smtp-com.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/providers/smtp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/images/recommended.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/smtp-about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/smtp-about.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/smtp-admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/smtp-admin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/vendor/jquery.matchHeight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/js/vendor/jquery.matchHeight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/languages/wp-mail-smtp.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/libs/jquery-confirm.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/assets/libs/jquery-confirm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Area.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/PageAbstract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/PageInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/About.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/AuthTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/ControlTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/Logs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/LogsTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/MiscTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/SettingsTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Pages/TestTab.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/PluginsInstallSkin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/PluginsInstallUpgrader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Admin/Review.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Conflicts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Geo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/MailCatcher.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Migration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Processor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/AmazonSES/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/AuthAbstract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/AuthInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Gmail/Auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Gmail/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Gmail/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Mail/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Mail/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/MailerAbstract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/MailerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Mailgun/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Mailgun/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/OptionsAbstract.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/OptionsInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Outlook/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Pepipost/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Pepipost/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/PepipostAPI/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/PepipostAPI/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/SMTP/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/SMTP/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/SMTPcom/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/SMTPcom/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Sendgrid/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Sendgrid/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Sendinblue/Api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Sendinblue/Mailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Providers/Sendinblue/Options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/SiteHealth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Tasks/Meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Tasks/Task.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Tasks/Tasks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/Upgrade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/src/WP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/uninstall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/AutoForwarding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/BatchDeleteMessagesRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/BatchModifyMessagesRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Delegate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Draft.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Filter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/FilterAction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/FilterCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ForwardingAddress.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/History.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/HistoryLabelAdded.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/HistoryLabelRemoved.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/HistoryMessageAdded.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/HistoryMessageDeleted.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ImapSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Label.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/LabelColor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/LanguageSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListDelegatesResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListDraftsResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListFiltersResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListForwardingAddressesResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListHistoryResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListLabelsResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListMessagesResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListSendAsResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListSmimeInfoResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ListThreadsResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Message.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/MessagePart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/MessagePartBody.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/MessagePartHeader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ModifyMessageRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/ModifyThreadRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/PopSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/Users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersDrafts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersHistory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersLabels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersMessages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersMessagesAttachments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettingsDelegates.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettingsFilters.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettingsForwardingAddresses.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettingsSendAs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersSettingsSendAsSmimeInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Resource/UsersThreads.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/SendAs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/SmimeInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/SmtpMsa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/Thread.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/VacationSettings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/WatchRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient-services/src/Google/Service/Gmail/WatchResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/AccessToken/Revoke.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/AccessToken/Verify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/AuthHandler/AuthHandlerFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/AuthHandler/Guzzle5AuthHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/AuthHandler/Guzzle6AuthHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Collection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Http/Batch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Http/MediaFileUpload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Http/REST.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Service.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Service/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Service/Resource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Task/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Task/Retryable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Task/Runner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/Utils/UriTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/apiclient/src/Google/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/AccessToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/ApplicationDefaultCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Cache/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Cache/Item.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Cache/MemoryCacheItemPool.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Cache/SysVCacheItemPool.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/CacheTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/AppIdentityCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/GCECredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/IAMCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/InsecureCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/ServiceAccountCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/ServiceAccountJwtAccessCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Credentials/UserRefreshCredentials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/CredentialsLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/FetchAuthTokenCache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/FetchAuthTokenInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/GetQuotaProjectInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/HttpHandler/Guzzle5HttpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/HttpHandler/Guzzle6HttpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/HttpHandler/HttpClientCache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/HttpHandler/HttpHandlerFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Iam.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Middleware/AuthTokenMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Middleware/ScopedAccessTokenMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Middleware/SimpleMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/OAuth2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/ProjectIdProviderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/ServiceAccountSignerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/SignBlobInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Subscriber/AuthTokenSubscriber.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Subscriber/ScopedAccessTokenSubscriber.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/google/auth/src/Subscriber/SimpleSubscriber.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/ClientInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/HandlerStack.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Middleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Pool.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/RequestOptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/TransferStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/UriTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/Utils.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/guzzle/src/functions_include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/AggregateException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/CancellationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/Coroutine.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/EachPromise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/FulfilledPromise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/Promise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/PromiseInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/PromisorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/RejectedPromise.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/RejectionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/TaskQueue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/promises/src/functions_include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/AppendStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/BufferStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/CachingStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/DroppingStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/FnStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/InflateStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/LimitStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/MessageTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/MultipartStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/NoSeekStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/PumpStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/Request.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/Response.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/Rfc7230.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/ServerRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/Stream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/StreamWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/UploadedFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/Uri.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/UriNormalizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/UriResolver.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/guzzlehttp/psr7/src/functions_include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/ErrorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/Curl/Util.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ElasticSearchHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FormattableHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/FormattableHandlerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/HandlerWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/IFTTTHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/InsightOpsHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/LogglyHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/MissingExtensionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/PHPConsoleHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ProcessableHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ProcessableHandlerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/Slack/SlackRecord.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SlackWebhookHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SlackbotHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdpHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/WhatFailureGroupHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Handler/ZendMonitorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Logger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/ProcessorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Registry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/ResettableInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/SignalHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/monolog/monolog/src/Monolog/Utils.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/Crypt/AES.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/Crypt/Random.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/Crypt/Rijndael.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/Math/BigInteger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/cache/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/cache/src/CacheException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/cache/src/CacheItemInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/cache/src/CacheItemPoolInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/cache/src/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/MessageInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/RequestInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/ResponseInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/ServerRequestInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/StreamInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/UploadedFileInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/http-message/src/UriInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/AbstractLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/LogLevel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/LoggerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/LoggerTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/psr/log/Psr/Log/NullLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/ralouphie/getallheaders/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/ralouphie/getallheaders/src/getallheaders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/AccountApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/AttributesApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/ContactsApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/EmailCampaignsApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/FoldersApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/ListsApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/ProcessApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/ResellerApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/SMSCampaignsApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/SMTPApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/SendersApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/TransactionalSMSApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Api/WebhooksApi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/ApiException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Configuration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/HeaderSelector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/AbTestCampaignResult.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/AddChildDomain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/AddContactToList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/AddCredits.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateAttribute.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateAttributeEnumeration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateChild.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateContact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateEmailCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateEmailCampaignRecipients.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateEmailCampaignSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateReseller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSenderIps.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSenderModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSmsCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSmsCampaignRecipients.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSmtpEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSmtpTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateSmtpTemplateSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateUpdateContactModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateUpdateFolder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreateWebhook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/CreatedProcessId.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/DeleteHardbounces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/EmailExportRecipients.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/ErrorModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAccount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAccountMarketingAutomation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAccountPlan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAccountRelay.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAccountRelayData.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAggregatedReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAttributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAttributesAttributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetAttributesEnumeration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetCampaignOverview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetCampaignRecipients.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetCampaignStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildAccountCreationStatus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildDomain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildDomains.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfoApiKeys.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfoApiKeysV2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfoApiKeysV3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfoCredits.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildInfoStatistics.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetChildrenList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactCampaignStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactCampaignStatsClicked.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactCampaignStatsOpened.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactCampaignStatsTransacAttributes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactCampaignStatsUnsubscriptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContactDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetContacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetDeviceBrowserStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetEmailCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetEmailCampaigns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetEmailEventReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetEmailEventReportEvents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedCampaignOverview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedCampaignOverviewSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedCampaignStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedClientAddress.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatistics.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsClicked.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsLinks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsMessagesSent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsOpened.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsUnsubscriptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsUnsubscriptionsAdminUnsubscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedContactDetailsStatisticsUnsubscriptionsUserUnsubscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetExtendedListCampaignStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetFolder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetFolderLists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetFolders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetIp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetIpFromSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetIps.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetIpsFromSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetLists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetProcess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetProcesses.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetReports.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetReportsReports.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSendersList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSendersListIps.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSendersListSenders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSharedTemplateUrl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsCampaignOverview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsCampaignStats.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsCampaigns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsEventReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmsEventReportEvents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmtpTemplateOverview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmtpTemplateOverviewSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSmtpTemplates.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetSsoToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetStatsByBrowser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetStatsByDevice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetStatsByDomain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacAggregatedSmsReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacBlockedContacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacBlockedContactsContacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacBlockedContactsReason.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacEmailContent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacEmailContentEvents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacEmailsList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacEmailsListTransactionalEmails.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacSmsReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetTransacSmsReportReports.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetWebhook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/GetWebhooks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/ManageIp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/ModelInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/PostContactInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/PostContactInfoContacts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/PostSendFailed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/PostSendSmsTestFailed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RemainingCreditModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RemainingCreditModelChild.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RemainingCreditModelReseller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RemoveContactFromList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RemoveCredits.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RequestContactExport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RequestContactExportCustomContactFilter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RequestContactImport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RequestContactImportNewList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/RequestSMSRecipientExport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendEmailAttachment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendReport.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendReportEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailAttachment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailBcc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailCc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailReplyTo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendSmtpEmailTo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendTemplateEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendTestEmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendTestSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/SendTransacSms.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateAttribute.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateAttributeEnumeration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateCampaignStatus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateChild.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateChildAccountStatus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateChildDomain.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateContact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateEmailCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateEmailCampaignRecipients.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateEmailCampaignSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateSmsCampaign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateSmtpTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateSmtpTemplateSender.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/Model/UpdateWebhook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/sendinblue/api-v3-sdk/lib/ObjectSerializer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-intl-idn/Idn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-intl-idn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-intl-idn/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/Mbstring.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-mbstring/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-php72/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-php72/Php72.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/symfony/polyfill-php72/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/action-scheduler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ActionClaim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ActionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AsyncRequest_QueueRunner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_Compatibility.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_DataController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_DateTime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_FatalErrorMonitor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_InvalidActionException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ListTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_LogEntry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_NullLogEntry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_OptionLock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueCleaner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_Versions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_WPCommentCleaner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/ActionScheduler_wcSystemStatus.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/WP_CLI/ProgressBar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schema.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Lock.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Logger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Store.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_TimezoneHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_Action.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpCommentLogger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/ActionMigrator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/BatchFetcher.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/DryRun_ActionMigrator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/DryRun_LogMigrator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/LogMigrator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/Runner.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/migration/Scheduler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_Schedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Abstract_QueueRunner_Deprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_AdminView_Deprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Store_Deprecated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/deprecated/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/WP_Async_Request.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_FieldFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_FieldInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_HoursField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MonthField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_YearField.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/lib/cron-expression/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/vendor/woocommerce/action-scheduler/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/wp-mail-smtp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-mail-smtp/wp_mail_smtp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/css/icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/css/icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/foto-99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img/video2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/cal.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/next_mon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/next_year.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/no_cal.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/prev_mon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/img2/prev_year.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/js/tcal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/IMG_0979.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/IMG_1838.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/IMG_1839.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/IMG_8655.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/IMG_9719.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/MVI_6191.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/MVI_6197.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/assets/video/MVI_6242.MOV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/front-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-about.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-service.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/page-service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/blagovistplus/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/blagovistplus/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/06/4-1024x475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/06/4-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/06/4-300x139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/06/4-768x356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/06/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/mediaelement/wp-mediaelement.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/mediaelement/wp-mediaelement.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-mail.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,22 +902,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/blagovistplus" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus\assets" />
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus\assets\js" />
+      <recent name="D:\workspace\blagovistplus.loc" />
+      <recent name="D:\workspace\blagovistplus.loc\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
       <recent name="D:\workspace\blagovistplus.loc\css" />
       <recent name="D:\workspace\blagovistplus.loc\ajax" />
       <recent name="D:\workspace\blagovistplus.loc\video" />
       <recent name="D:\workspace\blagovistplus.loc\img" />
-      <recent name="D:\workspace\blagovistplus.loc" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\blagovistplus.loc" />
-      <recent name="D:\workspace\blagovistplus.loc\wp-content\themes\blagovistplus" />
-      <recent name="D:\workspace\blagovistplus.loc\js" />
-      <recent name="D:\workspace\blagovistplus.loc\css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -205,7 +955,15 @@
       <workItem from="1592126315605" duration="242000" />
       <workItem from="1592165265271" duration="344000" />
       <workItem from="1592165630210" duration="115866000" />
-      <workItem from="1592474612087" duration="122213000" />
+      <workItem from="1592474612087" duration="151135000" />
+      <workItem from="1594314926503" duration="4062000" />
+      <workItem from="1594325103557" duration="7338000" />
+      <workItem from="1594365844714" duration="25153000" />
+      <workItem from="1594460023661" duration="8626000" />
+      <workItem from="1594563231664" duration="8423000" />
+      <workItem from="1594632001701" duration="16044000" />
+      <workItem from="1594729167909" duration="10340000" />
+      <workItem from="1594815104938" duration="12413000" />
     </task>
     <servers />
   </component>
@@ -213,25 +971,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Inspections" timestamp="1592258026413">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="309" y="25" key="#Inspections" timestamp="1594329006565">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1592258026413" />
-    <state x="420" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588500096150">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="309" y="25" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1594329006565" />
+    <state x="472" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594591072959">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="420" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588500096150" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593554805358">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="472" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594591072959" />
+    <state x="521" y="134" key="FileChooserDialogImpl" timestamp="1594329125060">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593554805358" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593711776904" />
+    <state x="521" y="134" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594329125060" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1594318558297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594318558297" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1592299831642">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592299831642" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593023466128">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="389" y="55" width="756" height="768" key="search.everywhere.popup" timestamp="1594679207318">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593023466128" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593703387503" />
+    <state x="389" y="55" width="756" height="768" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594679207318" />
   </component>
 </project>

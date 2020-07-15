@@ -38,12 +38,14 @@
   content: "\f16d";
   color: white;
   font-size: xxx-large;
+  padding: 0 10px;
 }
 
 .fa-facebook-square:before {
   content: "\f082";
   color: white;
   font-size: xxx-large;
+  padding: 0 10px 0 0;
 }
 
 .fa-clock:before {

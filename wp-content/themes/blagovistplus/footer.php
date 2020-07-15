@@ -8,66 +8,10 @@
                     <div class="row no-gutters">
                         <div class="col-12">
                             <div class="medilife-appointment-form">
-                                <form class="contact-form" id="st_form">
-                                    <div><h3 id="transition">Записатися на прийом:</h3></div>
-
-                                    <!-- Hidden Required Fields -->
-                                    <input type="hidden" name="project_name" value="blagovistplus">
-                                    <input type="hidden" name="admin_email" value="v.meleshko90@gmail.com">
-                                    <input type="hidden" name="form_subject" value="index form">
-                                    <!-- END Hidden Required Fields -->
-
-                                    <div class="row align-items-end">
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <select class="form-control" id="doctors" name="doctor">
-                                                    <option> Глушок Віталій Степанович</option>
-                                                    <option> Глушок Оксана Кирилівна</option>
-                                                    <option> Зінько Оксана Олегівна</option>
-                                                    <option> Глушок Вікторія Олександрівна</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-6">
-                                            <div class="form-group">
-                                                <input type="text" name="data" class="form-control tcal" id="data" onfocus="this.value=''" value=" Дата" placeholder=" Дата">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-6">
-                                            <div class="form-group">
-                                                <!-- min="09:00" max="18:00"-->
-                                                <input type="time" name="time" class="form-control" id="time" value="09:00" placeholder=" Час">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-4">
-                                            <div class="form-group">
-                                                <input type="text" class="form-control border-top-0 border-right-0 border-left-0"
-                                                       name="name" id="name" required onfocus="this.value=''" value=" Ім'я" placeholder=" Ім'я">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-4">
-                                            <div class="form-group">
-                                                <input type="phone" class="form-control border-top-0 border-right-0 border-left-0"
-                                                       name="phone" id="number" required onfocus="this.value=''" value=" Телефон" placeholder=" Телефон">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-md-4">
-                                            <div class="form-group">
-                                                <input type="email" class="form-control border-top-0 border-right-0 border-left-0"
-                                                       name="email" id="email" required onfocus="this.value=''" value=" E-mail" placeholder=" E-mail">
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="form-group">
-                                                <textarea name="повідомлення" class="form-control mb-0 border-top-0 border-right-0 border-left-0"
-                                                          id="message" cols="" rows="" onfocus="this.value=''" value=" Повідомлення" placeholder=" Повідомлення">
-                                                </textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <button type="submit" id="send" class="btn medilife-btn">Подати заявку на прийом</button>
-                                </form>
-
+                               <div id="footer-widgets">
+                                <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-4') ) : ?>
+                                <?php endif; ?>
+                               </div>
                             </div>
                         </div>
                     </div>
@@ -91,40 +35,32 @@
                     <i class="icon-smartphone"></i>
                 </div>
             </div>
-            <div class="col-md-4 mt-md-0 mt-3">
-                <!-- Content -->
-                <h5 class="text-uppercase">Медичний центр «Благовіст-плюс»</h5>
-                <p class="white">Завжди готові Вам допомогти!</p>
-                <!--Facebook-->
-                <a class="btn-floating btn-lg btn-fb" type="button" role="button" href="<?php the_field('facebook') ?>"><i class="fab fa-facebook-square"></i></a>
-                <!--Instagram-->
-                <a class="btn-floating btn-lg btn-ins" type="button" role="button" href="<?php the_field('instagram') ?>"><i class="fab fa-instagram"></i></a>
+            <div class="col-md-4 mt-md-0 mt-3 widget">
+                <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-5') ) : ?>
+                <?php endif; ?>
             </div>
             <!-- Grid column -->
             <hr class="clearfix w-100 d-md-none pb-3">
             <!-- Grid column -->
             <div class="col-md-2 mb-md-0 mb-3">
-                <!-- Links -->
-                <h5 class="text-uppercase"><i class="far fa-clock"></i> <?php the_field('h_footer1') ?></h5>
-                <ul class="list-unstyled">
-                <?php the_field('schedule') ?>
-                </ul>
+                <div id="footer-widgets">
+                <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-1') ) : ?>
+                <?php endif; ?>
+                </div>
             </div>
             <!-- Grid column -->
             <div class="col-md-2 mb-md-0 mb-3 padding-0">
-                <!-- Links -->
-                <h5 class="text-uppercase"><i class="far fa-address-book"></i> <?php the_field('text-uppercase') ?></h5>
-                <ul class="list-unstyled">
-                <?php the_field('list-unstyled') ?>
-                </ul>
+                <div id="footer-widgets">
+                <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-2') ) : ?>
+                <?php endif; ?>
+                </div>
             </div>
             <!-- Grid column -->
             <div class="col-md-2 mb-md-0 mb-3">
-                <!-- Links -->
-                <h5 class="text-uppercase"><img src="<?php echo get_template_directory_uri()?>/assets/img/icons/map-pin.png" alt=""> <?php the_field('text-uppercase1') ?></h5>
-                <ul class="list-unstyled">
-                <?php the_field('list-unstyled1') ?>
-                </ul>
+                <div id="footer-widgets">
+                <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-3') ) : ?>
+                <?php endif; ?>
+                </div>
             </div>
         </div>
     </div>
@@ -155,6 +91,8 @@
     </div>
 </div>
 </section>
+
+<div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 8px; z-index: auto; background: rgb(240, 240, 240); cursor: default; position: fixed; top: 0px; height: 100%; right: 0px; display: block; opacity: 0;"><div class="nicescroll-cursors" style="position: relative; top: 69px; float: right; width: 6px; height: 127px; background-color: rgb(21, 21, 21); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div>
 
 <?php wp_footer(); ?>
 

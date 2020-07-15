@@ -10,9 +10,7 @@ Template Name: Про Нас
     <div class="container h-100">
         <div class="row h-100 align-items-center">
             <div class="col-12">
-                <div class="breadcumb-content">
-                    <h3 class="breadcumb-title"><?php the_field('breadcumb-title') ?></h3>
-                </div>
+
             </div>
         </div>
     </div>
@@ -22,20 +20,15 @@ Template Name: Про Нас
 <!-- ***** About Area Start ***** -->
 <div class="medilife-features-area section-padding-100">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <div class="features-content">
-                    <h3><?php the_field('features-content') ?></h3>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <div class="features-content">
-                    <img src="<?php the_field('features-img') ?>" alt="">
-                </div>
-            </div>
-        </div>
+         <div class="breadcumb-content">
+              <h3 class="breadcumb-title" style="text-align: center;"><?php the_field('breadcumb-title') ?></h3>
+         </div>
+         <div class="features-content">
+              <h1 class="text-center p-20"><?php the_field('features-content') ?></h1>
+         </div>
     </div>
 </div>
+
 <!-- ***** About Area End ***** -->
 
 

@@ -38,7 +38,7 @@
                                  wp_nav_menu(
                                  array(
                                  'menu_id' 		=> '',
-                                 'menu_class'	=> 'navbar-nav ml-auto',
+                                 'menu_class'	=> 'navbar-nav ml-auto active',
                                  'container'	=> '',
                                  'items_wrap'	=> '<ul id="%1$s" class="%2$s">%3$s</ul>'
                                  )
