@@ -36,8 +36,10 @@
                 </div>
             </div>
             <div class="col-md-4 mt-md-0 mt-3 widget">
+            <div id="footer-widgets">
                 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-5') ) : ?>
                 <?php endif; ?>
+            </div>
             </div>
             <!-- Grid column -->
             <hr class="clearfix w-100 d-md-none pb-3">
@@ -81,8 +83,8 @@
     <div class="container">
         <div class="row footer-content">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-left">
-                <a class="navbar-brand faq-link" href="index.html"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" width="35" height="25" alt="Logo"> Благовіст Плюс</a>
-                <a href="services.html#scolarship-tab" rel="nofollow" class="faq-page-link faq-link">FAQ</a>
+                <a class="navbar-brand faq-link" href="http://blagovistplus.loc/"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" width="35" height="25" alt="Logo"> Благовіст Плюс</a>
+                <a href="http://blagovistplus.loc/faq/" rel="nofollow" class="faq-page-link faq-link">FAQ</a>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-right">
                 <p class="copyright-footer">COPYRIGHT © 2020. BLAGOVISTPLUS.</p>
@@ -92,13 +94,7 @@
 </div>
 </section>
 
-<div id="ascrail2000" class="nicescroll-rails nicescroll-rails-vr" style="width: 8px; z-index: auto; background: rgb(240, 240, 240); cursor: default; position: fixed; top: 0px; height: 100%; right: 0px; display: block; opacity: 0;"><div class="nicescroll-cursors" style="position: relative; top: 69px; float: right; width: 6px; height: 127px; background-color: rgb(21, 21, 21); border: 1px solid rgb(255, 255, 255); background-clip: padding-box; border-radius: 5px;"></div></div>
-
 <?php wp_footer(); ?>
-
-<!--jquery/bootstrap-->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 
 </body>
 

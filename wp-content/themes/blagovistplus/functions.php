@@ -3,15 +3,13 @@
 add_action( 'wp_enqueue_scripts', 'blagovistplus_style' );
 
 function blagovistplus_style() {
-// підключеня основноо сss
-	wp_enqueue_style( 'main-style', get_stylesheet_uri() );
 
 	// підключення додаткових сss
-    	wp_enqueue_style( 'tcal-style', get_template_directory_uri() . '/assets/css/tcal.css' );
+		wp_enqueue_style( 'bootstrap-style', 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' );
+        wp_enqueue_style( 'main-style', get_stylesheet_uri() ); // підключеня основноо сss
 		wp_enqueue_style( 'font-awesome-style', get_template_directory_uri() . '/assets/css/font-awesome.min.css' );
 		wp_enqueue_style( 'fontawesome-style', 'https://use.fontawesome.com/releases/v5.6.1/css/all.css' );
 		wp_enqueue_style( 'icons-style', get_template_directory_uri() . '/assets/css/icons.css' );
-//		wp_enqueue_style( 'bootstrap-style', 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css' );
 
 }
 
@@ -19,12 +17,6 @@ function blagovistplus_style() {
 // способ подключить скрипты темы
 add_action( 'wp_enqueue_scripts', 'blagovistplus_scripts' );
 function blagovistplus_scripts() {
-
-// свій jquery не працює?
-	wp_deregister_script( 'jquery' );
-	wp_register_script( 'jquery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js', false, null, true );
-	wp_enqueue_script( 'jquery' );
-
 
 // подключаем js файл темы
     wp_enqueue_script( 'bootstrap.min.js-scripts', 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js', array('jquery'), null, true );
@@ -52,8 +44,6 @@ if(function_exists('register_nav_menus')){
 		)
 	);
 }
-
-
 
 // виджети
     register_sidebar(array(
@@ -101,7 +91,5 @@ if(function_exists('register_nav_menus')){
     'before_title' => '<h2>',
     'after_title' => '</h2>',
     ));
-
-
 
 ?>

@@ -24,6 +24,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fa-map-marker:before {
+  content: "\f041";
+  color: #ffffff;
+}
+
 .fa-phone:before {
   content: "\f095";
   font-size: small;

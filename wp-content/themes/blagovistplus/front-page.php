@@ -65,7 +65,7 @@ Template Name: Головна
              if( $featured_posts ): ?>
              <?php foreach( $featured_posts as $post ):
               setup_postdata($post); ?>
-            <div class="col-md-4 col-lg-6 col-sm-12 p-15">
+            <div class="col-lg-6 col-md-4 col-sm-12 p-15">
                 <div class="card-none">
                     <div class="card-img">
                         <?php the_field('img_gallery') ?>
