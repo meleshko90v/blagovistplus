@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <!-- ***** Breadcumb Area Start ***** -->
-<section class="breadcumb-area bg-img gradient-background-overlay" style="background-image: url(<?php the_field('background-overlay') ?>);">
+<section class="breadcumb-area bg-img gradient-background-overlay" style="background-image: url(<?php echo get_template_directory_uri()?>/assets/img/about1.jpg?>);">
     <div class="container h-100">
         <div class="row h-100 align-items-center">
             <div class="col-12">

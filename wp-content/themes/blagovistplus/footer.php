@@ -1,6 +1,6 @@
 <!-- *****Form***** -->
 <section>
-<div class="medilife-book-an-appoinment-area">
+<div id="transitions" class="medilife-book-an-appoinment-area">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -24,7 +24,7 @@
 
 <!-- ***** contact-us ***** -->
 
-<section class="footer1" id="contact-us">
+<section class="footer1">
 <footer class="page-footer font-small blue pt-4">
     <!-- Footer Links -->
     <div class="container-fluid text-center text-md-left">
