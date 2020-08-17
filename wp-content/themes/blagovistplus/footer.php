@@ -30,19 +30,17 @@
     <div class="container-fluid text-center text-md-left">
         <div class="row">
             <!-- Grid column -->
-            <div class="col-md-2 mt-md-0 mt-3">
+            <div class="col-md-2 mt-md-0 mb-3">
                 <div class="emergency-content">
                     <i class="icon-smartphone"></i>
                 </div>
             </div>
-            <div class="col-md-4 mt-md-0 mt-3 widget">
+            <div class="col-md-4 mt-md-0 mb-3 widget">
             <div id="footer-widgets">
                 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('footer-5') ) : ?>
                 <?php endif; ?>
             </div>
             </div>
-            <!-- Grid column -->
-            <hr class="clearfix w-100 d-md-none pb-3">
             <!-- Grid column -->
             <div class="col-md-2 mb-md-0 mb-3">
                 <div id="footer-widgets">
@@ -82,12 +80,12 @@
 <div class="footer-ride">
     <div class="container">
         <div class="row footer-content">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-left">
-                <a class="navbar-brand faq-link" href="http://blagovistplus.loc/"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" width="35" height="25" alt="Logo"> Благовіст Плюс</a>
-                <a href="http://blagovistplus.loc/faq/" rel="nofollow" class="faq-page-link faq-link">FAQ</a>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-left">
+                <a class="navbar-footer" href="/home"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" alt="Logo"> Медичний центр <br> Благовіст-Плюс <br> <p class="zero-footer"> Європейський рівень професіоналізму</p></a>
+                <a href="" rel="nofollow" class="faq-page-link faq-link">Ліцензія</a>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 footer-right">
-                <p class="copyright-footer">COPYRIGHT © 2020. BLAGOVISTPLUS.</p>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 footer-right">
+                <p class="copyright-footer">COPYRIGHT © 2020. BLAGOVIST-PLUS.</p>
             </div>
         </div>
     </div>

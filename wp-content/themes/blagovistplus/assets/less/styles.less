@@ -74,11 +74,11 @@ h6 {
 /*galleri*/
 
 .section-padding-top-200 {
-  padding-top: 140px !important;
+  padding-top: 86px !important;
 }
 
 .padding-botton {
-  padding-bottom: 90px;
+  padding-bottom: 30px;
 }
 
 video {
@@ -195,7 +195,7 @@ img {
   background: rgba(255, 255, 255, .8);
   position: fixed;
   z-index: 8;
-  padding: 25px 0;
+  padding: 16px 0;
   width: 100%;
   -webkit-transition: background .3s ease;
   -o-transition: background .3s ease;
@@ -203,12 +203,12 @@ img {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .main-header-area {
-    height: 80px;
+    height: 85px;
   }
 }
 @media only screen and (max-width: 767px) {
   .main-header-area {
-    height: 70px;
+    height: 85px;
   }
 }
 
@@ -242,6 +242,35 @@ img {
     padding: 10px 30px;
     margin: 1px 0;
   }
+}
+
+.navbar-brand {
+    margin-left: -30px;
+    display: flex;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+}
+
+.zero {
+  color: #2e715f;
+  font-size: 9px;
+  font-weight: 400;
+  display: contents;
+}
+
+.navbar-footer {
+  margin-left: -30px;
+  display: flex;
+  font-size: 0.8rem;
+  line-height: 0.8rem;
+  color: #b3ffea;
+}
+
+.zero-footer {
+  color: #b3ffea;
+  font-size: 9px;
+  font-weight: 400;
+  display: contents;
 }
 
 .navbar {
@@ -317,7 +346,7 @@ textarea {
 .medilife-book-an-appoinment-area {
   position: relative;
   z-index: 1;
-  padding-bottom: 100px;
+  padding-bottom: 70px;
   padding-top: 50px;
 }
 .medilife-book-an-appoinment-area .appointment-form-content {
@@ -371,18 +400,6 @@ textarea {
   margin: 0 0 0 0;
   font-size: 35px;
   line-height: 1.5;
-}
-
-/* :: 10.0 Features Area CSS */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  .features-content {
-    margin-bottom: 100px;
-  }
-}
-@media only screen and (max-width: 767px) {
-  .features-content {
-    margin-bottom: 100px;
-  }
 }
 
 /* :: 13.0 Breadcumb Area CSS */
@@ -506,6 +523,7 @@ textarea {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+
 /* Cool Facts CSS */
 
 .card-body {
@@ -568,13 +586,6 @@ textarea {
   color: #57cc96;
 }
 
-footer {
-  background: bottom no-repeat;
-  background: #2e715f;
-  padding: 15px 0;
-  width: 100%;
-}
-
 .footer-ride {
   background: bottom no-repeat;
   margin: -75px 0 0;
@@ -590,10 +601,6 @@ footer {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
-}
-
-.map {
-  margin-bottom: 65px;
 }
 
 .faq-link {
@@ -615,16 +622,20 @@ footer {
   color: #ffffff;
 }
 
-.logo {
-  border-radius: 3px;
-}
-
 .white {
   color: #ffffff;
 }
 
 .padding-0 {
   padding: 0;
+}
+
+.text-uppercase {
+  padding-top: 10px;
+}
+
+.widget {
+  margin-bottom: 0;
 }
 
 .card-footer {
@@ -835,8 +846,29 @@ textarea {
 footer {
   background: bottom no-repeat;
   background: #2e715f;
-  padding: 15px 0;
   width: 100%;
+}
+
+.footer-left {
+  display: flex;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pt-4 {
+  padding-top: 1rem!important;
+}
+
+.mb-3 {
+  margin-bottom: 0!important;
+}
+
+.feat1 {
+  padding-top: 13px;
+  font-size: 15px;
 }
 
 .footer-ride {
@@ -848,9 +880,9 @@ footer {
 }
 
 .copyright-footer {
-  color: black;
-  font-size: 15px;
-  line-height: 3;
+  color: #b3ffea;
+  font-size: 14px;
+  line-height: 1;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -864,8 +896,6 @@ footer {
 .featers {
   font-size: 22px;
   font-weight: 400;
-  text-align: justify;
-  padding: 0 100px;
 }
 
 .map {
@@ -875,6 +905,8 @@ footer {
 .faq-link {
   color: #b3ffea;
   font-size: 15px !important;
+  margin-left: 30px;
+  line-height: 1;
 }
 
 .icon-smartphone {
@@ -897,11 +929,19 @@ footer {
 
 .logo {
   border-radius: 3px;
+  height: 30px;
+  width: 34px;
+  margin-right: 5px;
 }
 
 .white {
   color: #ffffff;
   font-size: 15px;
+  margin-bottom: 0;
+}
+
+.textwidget {
+  padding-bottom: 18px;
 }
 
 .padding-0 {
@@ -1006,7 +1046,52 @@ footer {
 }
 
 .n2_clear {
-  padding-top: 98px!important;
+  padding-top: 86px!important;
+}
+
+@media screen and (max-width: 800px) {
+  .padding-40 {
+    padding: 15px 0 0 0 !important;
+  }
+  .n2_clear {
+    padding-top: 85px !important;
+    margin-bottom: -50px;
+  }
+  .section-padding-100 {
+    padding: 10px 0 0 0;
+  }
+  .section-padding-100-20 {
+    padding: 0;
+  }
+  .ph10 {
+    padding: 10px;
+  }
+  .title_about {
+    padding-top: 18px;
+  }
+  .us {
+    margin-top: -7px;
+  }
+  .about-us {
+    padding-bottom: 0;
+  }
+  .doctors {
+    padding-bottom: 15px;
+  }
+  .medilife-book-an-appoinment-area {
+    padding-bottom: 50px;
+    padding-top: 30px;
+  }
+  .widget {
+    display: flex;
+    justify-content: center;
+  }
+  .navbar-brand {
+    margin-left: 0;
+  }
+  .navbar-footer {
+    margin-left: 0;
+  }
 }
 
 /* CSS servise*/
@@ -1037,11 +1122,10 @@ footer {
   position: absolute;
   left: -2rem;
   top: -.25rem;
-  bottom: -.25rem;
   width: 2.5rem;
   line-height: 2rem;
   border-radius: 1.25rem;
-  border: .25rem solid #fff;
+  border: .15rem solid #fff;
   text-align: center;
   color: #fff;
   background: #2e715f;

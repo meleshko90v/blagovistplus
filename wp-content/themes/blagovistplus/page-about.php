@@ -6,7 +6,7 @@ Template Name: Про Нас
 <?php get_header(); ?>
 
 <!-- ***** Breadcumb Area Start ***** -->
-<section class="breadcumb-area bg-img gradient-background-overlay" style="background-image: url(<?php the_field('background-overlay') ?>);"></section>
+<section class="breadcumb-area bg-img gradient-background-overlay margin50" style="background-image: url(<?php the_field('background-overlay') ?>);"></section>
 <!-- ***** Breadcumb Area End ***** -->
 
 <!-- ***** About Area Start ***** -->

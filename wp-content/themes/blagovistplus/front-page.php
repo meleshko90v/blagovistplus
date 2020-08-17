@@ -19,7 +19,7 @@ Template Name: Головна
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                 <div class="about-us-front-wrap">
-                    <h1><?php the_field('title_about') ?></h1>
+                    <h1 class="title_about"><?php the_field('title_about') ?></h1>
                     <p><?php the_field('text_about') ?></p>
                 </div>
             </div>
@@ -30,7 +30,7 @@ Template Name: Головна
 <!-- ***** Our doctors ***** -->
 <section class="doctors">
 <div class="container">
-    <h1 class="p-20"><?php the_field('title') ?></h1>
+    <h1 class=""><?php the_field('title') ?></h1>
     <div class="row">
     <?php
     $featured_posts = get_field('doctor');
@@ -81,7 +81,7 @@ Template Name: Головна
                <?php endif; ?>
         </div>
         <div class="btn-center">
-            <a href="gallery"><button type="button" class="btn btn-outline-warning"><?php the_field('btn') ?></button></a>
+            <a href="/gallery"><button type="button" class="btn btn-outline-warning"><?php the_field('btn') ?></button></a>
         </div>
     </div>
 </div>

@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-04-27 20:57:27+0000\n"
+"PO-Revision-Date: 2020-07-26 13:37:58+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
-"X-Generator: GlotPress/3.0.0-alpha\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: uk_UA\n"
 "Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
 
@@ -24,7 +24,7 @@ msgstr "%1$s та %2$s"
 msgid "Additional settings"
 msgstr "Додаткові налаштування"
 
-#: modules/recaptcha.php:484 modules/constant-contact.php:469
+#: modules/constant-contact.php:469 modules/recaptcha/recaptcha.php:420
 msgid "Error"
 msgstr "Помилка"
 
@@ -36,27 +36,27 @@ msgstr "У шаблоні форми використовуються недос
 msgid "The total size of attachment files is too large."
 msgstr "Загальний розмір файлів вкладень занадто великий."
 
-#: modules/recaptcha.php:506
+#: modules/recaptcha/recaptcha.php:442
 msgid "reCAPTCHA is active on this site."
 msgstr "reCAPTCHA активна на цьому сайті."
 
-#: modules/recaptcha.php:163
+#: modules/recaptcha/recaptcha.php:99
 msgid "reCAPTCHA response token is empty."
 msgstr "Поле токена відповіді reCAPTCHA не заповнено."
 
-#: includes/submission.php:326
+#: includes/submission.php:418
 msgid "Blacklisted words are used."
 msgstr "Використано слова з чорного списку."
 
-#: includes/submission.php:317
+#: includes/submission.php:409
 msgid "Submitted nonce is invalid."
 msgstr "Відправлений код nonce невірний."
 
-#: includes/submission.php:308
+#: includes/submission.php:400
 msgid "User-Agent string is unnaturally short."
 msgstr "Рядок User-Agent неприродно короткий."
 
-#: modules/recaptcha.php:169
+#: modules/recaptcha/recaptcha.php:105
 msgid "reCAPTCHA score (%1$.2f) is lower than the threshold (%2$.2f)."
 msgstr "Оцінка reCAPTCHA (%1$.2f) нижче порогового значення (%2$.2f)."
 
@@ -100,23 +100,23 @@ msgid "Connection established."
 msgstr "З'єднання встановлено."
 
 #. translators: 1: response code, 2: message, 3: body, 4: URL
-#: includes/functions.php:384
+#: includes/functions.php:413
 msgid "HTTP Response: %1$s %2$s %3$s from %4$s"
 msgstr "HTTP-відповідь: %1$s %2$s %3$s з %4$s"
 
-#: modules/recaptcha.php:577
+#: modules/recaptcha/recaptcha.php:513
 msgid "Save Changes"
 msgstr "Зберегти зміни"
 
-#: modules/recaptcha.php:496
+#: modules/recaptcha/recaptcha.php:432
 msgid "reCAPTCHA protects you against spam and other types of automated abuse. With Contact Form 7&#8217;s reCAPTCHA integration module, you can block abusive form submissions by spam bots. For details, see %s."
 msgstr "reCAPTCHA захищає вас від спаму і іншого роду автоматичних зловживань повідомленнями. З модулем інтеграції reCAPTCHA в Contact Form 7 можна блокувати спроби зловживання формою зв'язку спам-ботами. Подробиці тут: %s."
 
-#: modules/recaptcha.php:241 modules/recaptcha.php:499
+#: modules/recaptcha/recaptcha.php:177 modules/recaptcha/recaptcha.php:435
 msgid "reCAPTCHA (v3)"
 msgstr "reCAPTCHA (v3)"
 
-#: modules/recaptcha.php:238
+#: modules/recaptcha/recaptcha.php:174
 msgid "API keys for reCAPTCHA v3 are different from those for v2; keys for v2 don&#8217;t work with the v3 API. You need to register your sites again to get new keys for v3. For details, see %s."
 msgstr "API-ключі для reCAPTCHA v3 відрізняються від v2; ключі v2 не працюють з API v3. Вам слід зареєструвати свій сайт повторно та отримати ключі v3. Подробиці тут: %s."
 
@@ -124,7 +124,7 @@ msgstr "API-ключі для reCAPTCHA v3 відрізняються від v2;
 msgid "Connect to the Constant Contact API"
 msgstr "Підключення до Constant Contact API"
 
-#: modules/recaptcha.php:572
+#: modules/recaptcha/recaptcha.php:508
 msgctxt "API keys"
 msgid "Remove Keys"
 msgstr "Видалення ключів"
@@ -145,7 +145,7 @@ msgstr "Секрет додатку (App Secret)"
 msgid "API Key"
 msgstr "API ключ"
 
-#: modules/recaptcha.php:516 modules/constant-contact.php:507
+#: modules/constant-contact.php:507 modules/recaptcha/recaptcha.php:452
 msgid "Setup Integration"
 msgstr "Налаштування інтеграції"
 
@@ -219,7 +219,7 @@ msgstr "Не погоджено"
 msgid "Consented"
 msgstr "Погоджено"
 
-#: includes/submission.php:206
+#: includes/submission.php:82
 msgid "Sending mail has been aborted."
 msgstr "Відправка пошти була перервана."
 
@@ -287,7 +287,7 @@ msgstr "Якщо вам подобається користуватися Contac
 msgid "It is hard to continue development and support for this plugin without contributions from users like you."
 msgstr "Важко продовжувати розробку та підтримку цього плагіну без внеску таких користувачів, як ви."
 
-#: includes/contact-form.php:316 includes/contact-form.php:746
+#: includes/contact-form.php:316 includes/contact-form.php:718
 msgid "This contact form is available only for logged in users."
 msgstr "Ця форма доступна тільки для зареєстрованих користувачів."
 
@@ -300,26 +300,26 @@ msgstr "Використовуються застарілі налаштуван
 msgid "To use CAPTCHA, you need %s plugin installed."
 msgstr "Для використання CAPTCHA потрібно встановити плагін %s."
 
-#: includes/rest-api.php:261
+#: includes/rest-api.php:272
 msgid "There was an error deleting the contact form."
 msgstr "Помилка при видаленні контактної форми."
 
-#: includes/rest-api.php:177 includes/rest-api.php:204
-#: includes/rest-api.php:253
+#: includes/rest-api.php:182 includes/rest-api.php:211
+#: includes/rest-api.php:263
 msgid "You are not allowed to access the requested contact form."
 msgstr "У вас немає доступу до запитаної контактної форми."
 
-#: includes/rest-api.php:171 includes/rest-api.php:198
-#: includes/rest-api.php:247 includes/rest-api.php:281
-#: includes/rest-api.php:321
+#: includes/rest-api.php:175 includes/rest-api.php:204
+#: includes/rest-api.php:256 includes/rest-api.php:293
+#: includes/rest-api.php:342
 msgid "The requested contact form was not found."
 msgstr "Запитана контактна форма не знайдена."
 
-#: includes/rest-api.php:127
+#: includes/rest-api.php:129
 msgid "You are not allowed to create a contact form."
 msgstr "Ви не можете створити контактну форму."
 
-#: includes/rest-api.php:121
+#: includes/rest-api.php:122
 msgid "Cannot create existing contact form."
 msgstr "Неможливо створити існуючу контактну форму."
 
@@ -384,11 +384,15 @@ msgstr "Виявлені %d помилки конфігурації"
 msgid "1 configuration error detected"
 msgstr "Виявлена 1 помилка в конфігурації"
 
-#: admin/admin.php:513 includes/rest-api.php:138 includes/rest-api.php:214
+#: includes/rest-api.php:141 includes/rest-api.php:222 admin/admin.php:514
 msgid "There was an error saving the contact form."
 msgstr "Помилка при збереженні контактної форми."
 
-#: includes/functions.php:374
+#. translators: 1: PHP function name, 2: version number, 3: alternative
+#. function name
+#. translators: 1: WordPress hook name, 2: version number, 3: alternative hook
+#. name
+#: includes/functions.php:377 includes/functions.php:401
 msgid "%1$s is <strong>deprecated</strong> since Contact Form 7 version %2$s! Use %3$s instead."
 msgstr "%1$s рахується <strong>застарілим</strong> починаючи з Contact Form 7 версії %2$s! Замість цього використовуйте %3$s ."
 
@@ -471,19 +475,19 @@ msgstr "Число менше мінімально допустимого."
 msgid "The number format is invalid."
 msgstr "Формат числа некоректний."
 
-#: modules/file.php:179
+#: modules/file.php:200
 msgid "There was an error uploading the file."
 msgstr "Під час завантаження файлу сталася помилка."
 
-#: modules/file.php:174
+#: modules/file.php:195
 msgid "The file is too big."
 msgstr "Файл занадто великий."
 
-#: modules/file.php:169
+#: modules/file.php:190
 msgid "You are not allowed to upload files of this type."
 msgstr "Вам не дозволено завантажувати файли цього типу."
 
-#: modules/file.php:164
+#: modules/file.php:185
 msgid "There was an unknown error uploading the file."
 msgstr "Під час завантаження файлу сталася невідома помилка."
 
@@ -546,12 +550,12 @@ msgstr "Перевірте конфігурацію Contact Form 7"
 msgid "https://contactform7.com/configuration-errors/"
 msgstr "https://contactform7.com/configuration-errors/"
 
-#: admin/admin.php:538
+#: admin/admin.php:539
 msgid "Configuration validation completed. No invalid contact form was found."
 msgstr "Перевірка конфігурації завершена. Проблеми в контактних формах не знайдені."
 
 #. translators: %s: number of contact forms
-#: admin/admin.php:527
+#: admin/admin.php:528
 msgid "Configuration validation completed. %s invalid contact form was found."
 msgid_plural "Configuration validation completed. %s invalid contact forms were found."
 msgstr[0] "Перевірка конфігурації завершена. Була виявлена %s невірна форма контактів."
@@ -574,28 +578,28 @@ msgstr[2] "Перевірити зараз %s Форм Контактів"
 msgid "You are not allowed to validate configuration."
 msgstr "Вам недоступна валідація конфігурації."
 
-#: modules/recaptcha.php:240 modules/recaptcha.php:498
+#: modules/recaptcha/recaptcha.php:176 modules/recaptcha/recaptcha.php:434
 #: admin/includes/welcome-panel.php:35
 msgid "https://contactform7.com/recaptcha/"
 msgstr "https://contactform7.com/recaptcha/"
 
-#: modules/recaptcha.php:548
+#: modules/recaptcha/recaptcha.php:484
 msgid "Secret Key"
 msgstr "Таємний ключ"
 
-#: modules/recaptcha.php:531
+#: modules/recaptcha/recaptcha.php:467
 msgid "Site Key"
 msgstr "Ключ сайту"
 
-#: modules/recaptcha.php:490
+#: modules/recaptcha/recaptcha.php:426
 msgid "Settings saved."
 msgstr "Налаштування збережено."
 
-#: modules/recaptcha.php:485
+#: modules/recaptcha/recaptcha.php:421
 msgid "Invalid key values."
 msgstr "Помилкове значення ключа."
 
-#: modules/recaptcha.php:274 admin/includes/welcome-panel.php:36
+#: modules/recaptcha/recaptcha.php:210 admin/includes/welcome-panel.php:36
 msgid "reCAPTCHA"
 msgstr "reCAPTCHA"
 
@@ -603,24 +607,8 @@ msgstr "reCAPTCHA"
 msgid "CAPTCHA (Really Simple CAPTCHA)"
 msgstr "CAPTCHA (Дійсно проста CAPTCHA)"
 
-#. Author URI of the plugin
-msgid "https://ideasilo.wordpress.com/"
-msgstr "https://ideasilo.wordpress.com/"
-
-#. Author of the plugin
-msgid "Takayuki Miyoshi"
-msgstr "Takayuki Miyoshi"
-
-#. Description of the plugin
-msgid "Just another contact form plugin. Simple but flexible."
-msgstr "Конструктор контактних форм. Простий, але гнучкий."
-
-#. Plugin URI of the plugin
-msgid "https://contactform7.com/"
-msgstr "https://contactform7.com/"
-
 #. translators: title of your first contact form. %d: number fixed to '1'
-#: settings.php:144
+#: settings.php:152
 msgid "Contact form %d"
 msgstr "Контактна форма %d"
 
@@ -649,11 +637,11 @@ msgstr "Це поле потребує ім'я автора"
 msgid "Akismet"
 msgstr "Akismet"
 
-#: modules/textarea.php:143 modules/text.php:239
+#: modules/text.php:239 modules/textarea.php:143
 msgid "Text fields"
 msgstr "Текстові поля"
 
-#: modules/textarea.php:143 modules/text.php:239
+#: modules/text.php:239 modules/textarea.php:143
 msgid "https://contactform7.com/text-fields/"
 msgstr "https://contactform7.com/text-fields/"
 
@@ -801,51 +789,51 @@ msgstr "Число менше мінімально допустимого зна
 msgid "Number format that the sender entered is invalid"
 msgstr "Формат введеного числа є невірним"
 
-#: modules/file.php:289
+#: modules/file.php:310
 msgid "This contact form contains file uploading fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
 msgstr "Ця форма містить поля для завантаження файлів, проте тимчасовий каталог для файлів (%s) не існує або недоступний для запису. Ви можете створити цей каталог або встановити дозвіл на запис вручну."
 
-#: modules/file.php:259
+#: modules/file.php:280
 msgid "To attach the file uploaded through this field to mail, you need to insert the corresponding mail-tag (%s) into the File Attachments field on the Mail tab."
 msgstr "Щоб прикріпити файл завантажений через це поле до пошти, вам потрібно вставити відповідну поштову-позначку (%s) в поле прикріплення файлів на вкладці Пошта."
 
-#: modules/file.php:231
+#: modules/file.php:252
 msgid "Acceptable file types"
 msgstr "Допустимі типи файлів"
 
-#: modules/file.php:226
+#: modules/file.php:247
 msgid "File size limit (bytes)"
 msgstr "Граничний розмір файлу (в байтах)"
 
-#: modules/file.php:201
+#: modules/file.php:222
 msgid "File uploading and attachment"
 msgstr "Завантаження файлу та прикріплень"
 
-#: modules/file.php:201
+#: modules/file.php:222
 msgid "https://contactform7.com/file-uploading-and-attachment/"
 msgstr "https://contactform7.com/file-uploading-and-attachment/"
 
-#: modules/file.php:199
+#: modules/file.php:220
 msgid "Generate a form-tag for a file uploading field. For more details, see %s."
 msgstr "Генеруйте позначку форми для поля завантаження файлу. Для більш докладної інформації див. %s."
 
-#: modules/file.php:191
+#: modules/file.php:212
 msgid "file"
 msgstr "файл"
 
-#: modules/file.php:178
+#: modules/file.php:199
 msgid "Uploading a file fails for PHP error"
 msgstr "Збій при завантаженні"
 
-#: modules/file.php:173
+#: modules/file.php:194
 msgid "Uploaded file is too large"
 msgstr "Завантажений файл занадто великий"
 
-#: modules/file.php:168
+#: modules/file.php:189
 msgid "Uploaded file is not allowed for file type"
 msgstr "Тип файлу заборонений до завантаження"
 
-#: modules/file.php:163
+#: modules/file.php:184
 msgid "Uploading a file fails for any reason"
 msgstr "Помилка завантаження файлу"
 
@@ -862,13 +850,13 @@ msgstr "Мін."
 msgid "Range"
 msgstr "Діапазон"
 
-#: modules/date.php:183 modules/textarea.php:170 modules/number.php:191
-#: modules/text.php:266
+#: modules/text.php:266 modules/textarea.php:170 modules/date.php:183
+#: modules/number.php:191
 msgid "Use this text as the placeholder of the field"
 msgstr "Використовуйте цей текст як заповнювач поля"
 
-#: modules/date.php:181 modules/textarea.php:168 modules/number.php:189
-#: modules/text.php:264
+#: modules/text.php:264 modules/textarea.php:168 modules/date.php:181
+#: modules/number.php:189
 msgid "Default value"
 msgstr "Значення за замовчуванням"
 
@@ -900,62 +888,62 @@ msgstr "Дата менша за мінімально допустиме зна�
 msgid "Date format that the sender entered is invalid"
 msgstr "Формат введеної дати є невірним"
 
-#: modules/select.php:225 modules/checkbox.php:350 modules/date.php:227
-#: modules/textarea.php:197 modules/number.php:235 modules/text.php:322
+#: modules/text.php:322 modules/select.php:225 modules/textarea.php:197
+#: modules/checkbox.php:296 modules/date.php:227 modules/number.php:235
 msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
 msgstr "Щоб використовувати значення, введене через це поле в поле пошти, вам потрібно вставити відповідну поштову-позначку (%s) в поле на вкладці Пошта."
 
-#: modules/checkbox.php:320
+#: modules/checkbox.php:266
 msgid "Make checkboxes exclusive"
 msgstr "Зробити чекбокси винятковими"
 
-#: modules/checkbox.php:318
+#: modules/checkbox.php:264
 msgid "Wrap each item with label element"
 msgstr "Оберніть кожен елемент з елементом мітки"
 
-#: modules/checkbox.php:317
+#: modules/checkbox.php:263
 msgid "Put a label first, a checkbox last"
 msgstr "Поставте мітку спочатку, після - чекбокс."
 
-#: modules/select.php:194 modules/checkbox.php:316
+#: modules/select.php:194 modules/checkbox.php:262
 msgid "One option per line."
 msgstr "Один варіант в кожному рядку."
 
-#: modules/select.php:178 modules/checkbox.php:299 modules/date.php:170
-#: modules/textarea.php:157 modules/number.php:178 modules/file.php:215
-#: modules/text.php:253
+#: modules/text.php:253 modules/select.php:178 modules/textarea.php:157
+#: modules/file.php:236 modules/checkbox.php:245 modules/date.php:170
+#: modules/number.php:178
 msgid "Required field"
 msgstr "Обов'язкове поле"
 
-#: modules/select.php:174 modules/select.php:177 modules/checkbox.php:295
-#: modules/checkbox.php:298 modules/date.php:166 modules/date.php:169
-#: modules/textarea.php:153 modules/textarea.php:156 modules/number.php:169
-#: modules/number.php:172 modules/file.php:211 modules/file.php:214
-#: modules/text.php:249 modules/text.php:252
+#: modules/text.php:249 modules/text.php:252 modules/select.php:174
+#: modules/select.php:177 modules/textarea.php:153 modules/textarea.php:156
+#: modules/file.php:232 modules/file.php:235 modules/checkbox.php:241
+#: modules/checkbox.php:244 modules/date.php:166 modules/date.php:169
+#: modules/number.php:169 modules/number.php:172
 msgid "Field type"
 msgstr "Тип поля"
 
-#: modules/select.php:164 modules/checkbox.php:284
+#: modules/select.php:164 modules/checkbox.php:230
 msgid "Checkboxes, radio buttons and menus"
 msgstr "Прапорці, перемикачі та меню"
 
-#: modules/select.php:164 modules/checkbox.php:284
+#: modules/select.php:164 modules/checkbox.php:230
 msgid "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
 msgstr "https://contactform7.com/checkboxes-radio-buttons-and-menus/"
 
-#: modules/checkbox.php:281
+#: modules/checkbox.php:227
 msgid "Generate a form-tag for a group of radio buttons. For more details, see %s."
 msgstr "Генеруйте позначку форми для групи радіо кнопок. Для більш докладної іформації див. %s."
 
-#: modules/checkbox.php:279
+#: modules/checkbox.php:225
 msgid "Generate a form-tag for a group of checkboxes. For more details, see %s."
 msgstr "Генеруйте позначку форми для групи чекбоксів. Для більш докладної інформації див. %s."
 
-#: modules/checkbox.php:266
+#: modules/checkbox.php:212
 msgid "radio buttons"
 msgstr "радіо кнопка"
 
-#: modules/checkbox.php:264
+#: modules/checkbox.php:210
 msgid "checkboxes"
 msgstr "чекбокси"
 
@@ -988,7 +976,7 @@ msgstr "Генеруйте позначки форми для CAPTCHA зобра
 msgid "To use CAPTCHA, you first need to install and activate %s plugin."
 msgstr "Щоб використовувати CAPTCHA, спочатку необхідно встановити і активувати плагін %s."
 
-#: modules/recaptcha.php:9 modules/really-simple-captcha.php:275
+#: modules/recaptcha/recaptcha.php:9 modules/really-simple-captcha.php:275
 msgid "CAPTCHA"
 msgstr "CAPTCHA"
 
@@ -1000,39 +988,39 @@ msgstr "Введено невірний контрольний код."
 msgid "The code that sender entered does not match the CAPTCHA"
 msgstr "Невірний код CAPTCHA"
 
-#: modules/select.php:220 modules/quiz.php:235 modules/checkbox.php:345
-#: modules/date.php:222 modules/really-simple-captcha.php:327
-#: modules/textarea.php:192 modules/acceptance.php:291 modules/submit.php:88
-#: modules/number.php:230 modules/file.php:254 modules/text.php:317
+#: modules/text.php:317 modules/select.php:220 modules/textarea.php:192
+#: modules/file.php:275 modules/acceptance.php:291
+#: modules/really-simple-captcha.php:327 modules/checkbox.php:291
+#: modules/date.php:222 modules/quiz.php:235 modules/number.php:230
+#: modules/submit.php:88
 msgid "Insert Tag"
 msgstr "Вставити позначку"
 
-#: modules/select.php:207 modules/quiz.php:222 modules/checkbox.php:332
-#: modules/date.php:210 modules/really-simple-captcha.php:300
-#: modules/really-simple-captcha.php:315 modules/textarea.php:179
-#: modules/acceptance.php:278 modules/submit.php:75 modules/number.php:218
-#: modules/file.php:241 modules/text.php:304
+#: modules/text.php:304 modules/select.php:207 modules/textarea.php:179
+#: modules/file.php:262 modules/acceptance.php:278
+#: modules/really-simple-captcha.php:300 modules/really-simple-captcha.php:315
+#: modules/checkbox.php:278 modules/date.php:210 modules/quiz.php:222
+#: modules/number.php:218 modules/submit.php:75
 msgid "Class attribute"
 msgstr "Атрибут класу"
 
-#: modules/select.php:202 modules/quiz.php:217 modules/checkbox.php:327
-#: modules/date.php:205 modules/really-simple-captcha.php:295
-#: modules/really-simple-captcha.php:310 modules/textarea.php:174
-#: modules/acceptance.php:273 modules/submit.php:70 modules/number.php:213
-#: modules/file.php:236 modules/text.php:299
+#: modules/text.php:299 modules/select.php:202 modules/textarea.php:174
+#: modules/file.php:257 modules/acceptance.php:273
+#: modules/really-simple-captcha.php:295 modules/really-simple-captcha.php:310
+#: modules/checkbox.php:273 modules/date.php:205 modules/quiz.php:217
+#: modules/number.php:213 modules/submit.php:70
 msgid "Id attribute"
 msgstr "Атрибут Id"
 
-#: modules/select.php:189 modules/select.php:192 modules/checkbox.php:311
-#: modules/checkbox.php:314 modules/acceptance.php:263
-#: modules/acceptance.php:266
+#: modules/select.php:189 modules/select.php:192 modules/acceptance.php:263
+#: modules/acceptance.php:266 modules/checkbox.php:257 modules/checkbox.php:260
 msgid "Options"
 msgstr "Параметри"
 
-#: modules/select.php:184 modules/quiz.php:201 modules/checkbox.php:306
-#: modules/date.php:176 modules/really-simple-captcha.php:285
-#: modules/textarea.php:163 modules/acceptance.php:253 modules/number.php:184
-#: modules/file.php:221 modules/text.php:259
+#: modules/text.php:259 modules/select.php:184 modules/textarea.php:163
+#: modules/file.php:242 modules/acceptance.php:253
+#: modules/really-simple-captcha.php:285 modules/checkbox.php:252
+#: modules/date.php:176 modules/quiz.php:201 modules/number.php:184
 msgid "Name"
 msgstr "Ім'я"
 
@@ -1115,7 +1103,7 @@ msgstr "Тема: %s"
 msgid "From: %s"
 msgstr "Від: %s"
 
-#: modules/submit.php:26 includes/contact-form-template.php:42
+#: includes/contact-form-template.php:42 modules/submit.php:26
 msgid "Send"
 msgstr "Відправити"
 
@@ -1261,7 +1249,7 @@ msgstr "Тіло повідомлення"
 msgid "Additional headers"
 msgstr "Додаткові заголовки"
 
-#: admin/includes/editor.php:163 includes/contact-form-template.php:40
+#: includes/contact-form-template.php:40 admin/includes/editor.php:163
 msgid "Subject"
 msgstr "Тема"
 
@@ -1289,18 +1277,19 @@ msgstr "Використати пошту (2)"
 msgid "Mail (2)"
 msgstr "Пошта (2)"
 
-#: admin/includes/class-contact-forms-list-table.php:247
+#: admin/includes/class-contact-forms-list-table.php:243
 msgid "Y/m/d"
 msgstr "Y/m/d"
 
-#. translators: %s: time since the creation of the contact form
-#: admin/includes/class-contact-forms-list-table.php:243
+#. translators: %s: Human-readable time difference since the creation of the
+#. contact form
+#: admin/includes/class-contact-forms-list-table.php:239
 msgid "%s ago"
 msgstr "%s назад"
 
 #: admin/includes/class-contact-forms-list-table.php:232
-msgid "Y/m/d g:i:s A"
-msgstr "Y/m/d g:i:s A"
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
 
 #. translators: %s: title of contact form
 #: admin/includes/class-contact-forms-list-table.php:122
@@ -1327,7 +1316,7 @@ msgstr "Короткий код"
 msgid "Title"
 msgstr "Заголовок"
 
-#: admin/edit-contact-form.php:261 admin/includes/editor.php:252
+#: admin/includes/editor.php:252 admin/edit-contact-form.php:261
 msgid "Additional Settings"
 msgstr "Додаткові налаштування"
 
@@ -1336,15 +1325,15 @@ msgstr "Додаткові налаштування"
 msgid "Additional Settings (%d)"
 msgstr "Додаткові налаштування (%d)"
 
-#: admin/edit-contact-form.php:245 admin/includes/editor.php:222
+#: admin/includes/editor.php:222 admin/edit-contact-form.php:245
 msgid "Messages"
 msgstr "Повідомлення"
 
-#: admin/edit-contact-form.php:241 admin/includes/editor.php:93
+#: admin/includes/editor.php:93 admin/edit-contact-form.php:241
 msgid "Mail"
 msgstr "Пошта"
 
-#: admin/edit-contact-form.php:237 admin/includes/editor.php:61
+#: admin/includes/editor.php:61 admin/edit-contact-form.php:237
 msgid "Form"
 msgstr "Форма"
 
@@ -1356,11 +1345,11 @@ msgstr "Підтримка"
 msgid "https://contactform7.com/support/"
 msgstr "https://contactform7.com/support/"
 
-#: admin/edit-contact-form.php:193 admin/includes/help-tabs.php:93
+#: admin/includes/help-tabs.php:93 admin/edit-contact-form.php:193
 msgid "FAQ"
 msgstr "Часті питання"
 
-#: admin/edit-contact-form.php:192 admin/includes/help-tabs.php:93
+#: admin/includes/help-tabs.php:93 admin/edit-contact-form.php:192
 msgid "https://contactform7.com/faq/"
 msgstr "https://contactform7.com/faq/"
 
@@ -1368,7 +1357,7 @@ msgstr "https://contactform7.com/faq/"
 msgid "Docs"
 msgstr "Документація"
 
-#: admin/edit-contact-form.php:196 admin/includes/help-tabs.php:92
+#: admin/includes/help-tabs.php:92 admin/edit-contact-form.php:196
 msgid "https://contactform7.com/docs/"
 msgstr "https://contactform7.com/docs/"
 
@@ -1378,13 +1367,13 @@ msgid ""
 "  'Cancel' to stop, 'OK' to delete."
 msgstr "Ви справді бажаєте видалити цю форму?"
 
-#: admin/edit-contact-form.php:168
 #: admin/includes/class-contact-forms-list-table.php:90
+#: admin/edit-contact-form.php:168
 msgid "Delete"
 msgstr "Видалити"
 
-#: admin/edit-contact-form.php:153
 #: admin/includes/class-contact-forms-list-table.php:187
+#: admin/edit-contact-form.php:153
 msgid "Duplicate"
 msgstr "Дублювати"
 
@@ -1408,7 +1397,7 @@ msgstr "Введіть назву тут"
 msgid "Save"
 msgstr "Зберегти"
 
-#: admin/admin.php:605
+#: admin/admin.php:606
 msgid "You are not allowed to edit this contact form."
 msgstr "Ви не можете редагувати цю контактну форму."
 
@@ -1441,32 +1430,32 @@ msgid "Dismiss"
 msgstr "Відхилити"
 
 #. translators: 1: version of Contact Form 7, 2: version of WordPress, 3: URL
-#: admin/admin.php:582
+#: admin/admin.php:583
 msgid "<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> Please <a href=\"%3$s\">update WordPress</a> first."
 msgstr "<strong>Contact Form 7 %1$s потребує версію WordPress %2$s або новішу.</strong> Будь ласка, <a href=\"%3$s\">оновіть WordPress</a>."
 
-#: admin/admin.php:560
+#: admin/admin.php:561
 msgid "Settings"
 msgstr "Налаштування"
 
-#: admin/admin.php:504
+#: admin/admin.php:505
 msgid "Contact form deleted."
 msgstr "Контактну форму видалено."
 
-#: admin/admin.php:502
+#: admin/admin.php:503
 msgid "Contact form saved."
 msgstr "Контактну форму збережено."
 
-#: admin/admin.php:500
+#: admin/admin.php:501
 msgid "Contact form created."
 msgstr "Контактну форму створено."
 
-#: admin/admin.php:415
+#: admin/admin.php:416
 msgid "Search Contact Forms"
 msgstr "Пошук контактних форм"
 
 #. translators: %s: search keywords
-#: admin/admin.php:395
+#: admin/admin.php:396
 msgid "Search results for &#8220;%s&#8221;"
 msgstr "Результати пошуку &#8220;%s&#8221;"
 
@@ -1474,15 +1463,15 @@ msgstr "Результати пошуку &#8220;%s&#8221;"
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "Внесені зміни будуть втрачені, якщо ви підете з цієї сторінки."
 
-#: admin/admin.php:305
+#: admin/admin.php:306
 msgid "Error in deleting."
 msgstr "Помилка під час видалення."
 
-#: admin/admin.php:301
+#: admin/admin.php:302
 msgid "You are not allowed to delete this item."
 msgstr "Недостатньо прав для видалення."
 
-#: admin/admin.php:197 admin/admin.php:259
+#: admin/admin.php:198 admin/admin.php:260
 msgid "You are not allowed to edit this item."
 msgstr "Недостатньо прав для редагування."
 
@@ -1490,23 +1479,23 @@ msgstr "Недостатньо прав для редагування."
 msgid "Integration"
 msgstr "Інтеграція"
 
-#: admin/admin.php:53 admin/admin.php:464
+#: admin/admin.php:53 admin/admin.php:465
 msgid "Integration with Other Services"
 msgstr "Інтеграція з іншими сервісами"
 
-#: admin/admin.php:42 admin/admin.php:387 admin/edit-contact-form.php:47
+#: admin/edit-contact-form.php:47 admin/admin.php:42 admin/admin.php:388
 msgid "Add New"
 msgstr "Додати"
 
-#: admin/admin.php:41 admin/edit-contact-form.php:36
+#: admin/edit-contact-form.php:36 admin/admin.php:41
 msgid "Add New Contact Form"
 msgstr "Додати нову контактну форму"
 
-#: admin/admin.php:33 admin/admin.php:380 includes/contact-form.php:31
+#: includes/contact-form.php:31 admin/admin.php:33 admin/admin.php:381
 msgid "Contact Forms"
 msgstr "Контактні форми"
 
-#: admin/admin.php:32 admin/edit-contact-form.php:38
+#: admin/edit-contact-form.php:38 admin/admin.php:32
 msgid "Edit Contact Form"
 msgstr "Редагувати контактну форму"
 
@@ -1515,6 +1504,6 @@ msgid "Contact"
 msgstr "Зв'язок"
 
 #. Plugin Name of the plugin
-#: modules/flamingo.php:191 admin/admin.php:24
+#: modules/flamingo.php:177 admin/admin.php:24
 msgid "Contact Form 7"
 msgstr "Contact Form 7"

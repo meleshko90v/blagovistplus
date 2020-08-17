@@ -7,7 +7,7 @@
             <div class="col-12">
                 <div class="breadcumb-content">
                     <h3 class="breadcumb-title">Вибачте - Сторінка не знайдена</h3>
-                    <h1><a href="http://blagovistplus.loc/">Повернутися на головну сторінку</a></h1>
+                    <h1><a href="/home">Повернутися на головну сторінку</a></h1>
                 </div>
             </div>
         </div>

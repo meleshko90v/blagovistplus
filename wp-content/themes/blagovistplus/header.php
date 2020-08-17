@@ -24,7 +24,7 @@
                     <div class="main-menu h-100">
                         <nav class="navbar h-100 navbar-expand-lg">
                             <!-- Logo Area  -->
-                            <a class="navbar-brand" href="http://blagovistplus.loc/"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" width="35" height="25" alt="Logo"> Благовіст Плюс</a>
+                            <a class="navbar-brand" href="/home"><img class="logo" src="<?php echo get_template_directory_uri()?>/assets/img/core-img/logo.png" alt="Logo"> Медичний центр <br> Благовіст-Плюс <br> <p class="zero"> Європейський рівень професіоналізму</p></a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse"
                                     data-target="#medilifeMenu" aria-controls="medilifeMenu"
                                     aria-expanded="false" aria-label="Toggle navigation">
